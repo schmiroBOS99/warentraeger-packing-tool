@@ -112,4 +112,8 @@ run.py          Einstiegspunkt (auch für PyInstaller)
 
 ## Autor und Kontext
 
-Maro Schmitt Rodrigues. Das Tool entstand als Auftragsarbeit für einen Lackierbetrieb. Kunden, Aufträge und echte Maße sind entfernt, alle Beispieldaten sind erfunden.
+Maro Schmitt Rodrigues. Das Tool entstand als Auftragsarbeit für Berater in der Lackierindustrie. Kunden, Aufträge und echte Maße sind entfernt, alle Beispieldaten sind erfunden.
+
+## Lizenz
+
+MIT, siehe [LICENSE](LICENSE).
